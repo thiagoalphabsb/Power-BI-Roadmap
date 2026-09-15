@@ -40,12 +40,12 @@ e mapa do Brasil.
 
 ## 📁 Estrutura de Pastas
 
+```text
 ├── Semana-01/
-│ └── README.md
+│   └── README.md
 ├── Semana-02/ (em breve)
 └── README.md (este arquivo)
-
-
+```
 ## 🔗 Fontes Oficiais
 
 - [Portal de Dados Abertos do SUS](https://dadosabertos.saude.gov.br)
