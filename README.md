@@ -52,7 +52,9 @@ formato largo→longo (Unpivot) e correção de ordenação temporal.
 ```text
 ├── Semana-01/
 │   └── README.md
-├── Semana-02/ (em breve)
+├── Semana-02/ 
+|   └── README.md
+├── Semana-03/ (em breve)
 └── README.md (este arquivo)
 ```
 ## 🔗 Fontes Oficiais
