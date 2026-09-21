@@ -16,7 +16,7 @@ Cybersecurity.
 | Semana | Foco                        | Projeto                       | Status |
 |--------|-----------------------------|--------------------------------|--------|
 | 01     | Fundamentos + dados         | Explorando dados do CNES       | ✅ Concluído |
-| 02     | Power Query                 | Tratamento de dados de saúde   | 🔜 |
+| 02     | Power Query                 | Tratamento de dados de saúde   | ✅ Concluído |
 | 03     | Modelagem                   | Modelo dimensional             | 🔜 |
 | 04     | DAX                         | Indicadores de saúde           | 🔜 |
 | 05     | Dashboards                  | Dashboard SUS                  | 🔜 |
@@ -30,6 +30,15 @@ Dashboard construído com dados do CNES Nacional (636 mil
 estabelecimentos, 6 mil municípios, 27 UFs), incluindo KPIs,
 distribuição geográfica por UF/Região, tipo de estabelecimento
 e mapa do Brasil.
+
+## 📊 Dashboard — Semana 02 (Internações Hospitalares SIH/SUS)
+
+![Dashboard Semana 02](Semana-02/imagens/Lab-semana02.png)
+
+Dashboard construído com dados de Produção Hospitalar (SIH/SUS)
+via TabNet/DATASUS, incluindo evolução mensal de internações no
+Brasil e comparação entre as 5 regiões, com tratamento de
+formato largo→longo (Unpivot) e correção de ordenação temporal.
 
 ## 🔧 Tecnologias
 
