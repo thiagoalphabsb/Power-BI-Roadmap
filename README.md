@@ -17,7 +17,7 @@ Cybersecurity.
 |--------|-----------------------------|--------------------------------|--------|
 | 01     | Fundamentos + dados         | Explorando dados do CNES       | ✅ Concluído |
 | 02     | Power Query                 | Tratamento de dados de saúde   | ✅ Concluído |
-| 03     | Modelagem                   | Modelo dimensional             | 🔜 |
+| 03     | Modelagem                   | Modelo dimensional             | ✅ Concluído |
 | 04     | DAX                         | Indicadores de saúde           | 🔜 |
 | 05     | Dashboards                  | Dashboard SUS                  | 🔜 |
 | 06     | Power BI Service + projeto  | Projeto profissional           | 🔜 |
@@ -40,6 +40,13 @@ via TabNet/DATASUS, incluindo evolução mensal de internações no
 Brasil e comparação entre as 5 regiões, com tratamento de
 formato largo→longo (Unpivot) e correção de ordenação temporal.
 
+![Dashboard Semana 03](Semana-03/imagens/Lab-semana03.png)
+
+Dashboard focado em modelagem dimensional (Star Schema) com `Dim_Calendario`
+e métricas de Time Intelligence (`PREVIOUSMONTH`, Variação % MoM). Análise
+de comportamento de filtros explícitos via `CALCULATE` e tratamento de
+anomalias temporais em dados de produção do SUS.
+
 ## 🔧 Tecnologias
 
 - Power BI Desktop
@@ -55,6 +62,8 @@ formato largo→longo (Unpivot) e correção de ordenação temporal.
 ├── Semana-02/ 
 |   └── README.md
 ├── Semana-03/ (em breve)
+|   └── README.md
+├── Semana-04/ (em breve)
 └── README.md (este arquivo)
 ```
 ## 🔗 Fontes Oficiais
