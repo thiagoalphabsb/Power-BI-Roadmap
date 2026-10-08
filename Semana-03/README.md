@@ -77,4 +77,4 @@ Laboratório prático executado em ambiente de estudos com dados abertos do SIH/
 ---
 
 📸 **Evidência**
-![Dashboard Semana 03]([imagens/Lab-semana03.png](https://github.com/thiagoalphabsb/Power-BI-Roadmap/blob/main/Semana-03/imagens/Lab-semana03.png))
+![Dashboard Semana 03](![Dashboard Semana 03](imagens/Lab-semana03.png)
