@@ -40,6 +40,8 @@ via TabNet/DATASUS, incluindo evolução mensal de internações no
 Brasil e comparação entre as 5 regiões, com tratamento de
 formato largo→longo (Unpivot) e correção de ordenação temporal.
 
+## 📊 Dashboard — Semana 03 (Time Intelligence & Modelagem SIH/SUS)
+
 ![Dashboard Semana 03](Semana-03/imagens/Lab-semana03.png)
 
 Dashboard focado em modelagem dimensional (Star Schema) com `Dim_Calendario`
